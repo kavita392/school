@@ -1,2 +1,3 @@
 # school
-THis is my coolege repository
+THis is my school repository
+author name-kavita rajbhar
